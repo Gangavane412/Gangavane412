@@ -1,5 +1,6 @@
 # Hi, I'm Priyanka 👋
-<img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" width="100%" height="200px">
+<!-- <img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" width="100%" height="200px"> -->
+<img src="./Coding.gif" width="100%" height="200px">
 ## 🚀 About Me
 I'm a passionate **Full Stack Developer** with expertise in building dynamic and responsive web applications. My skill set includes:
 
