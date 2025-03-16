@@ -1,5 +1,5 @@
 # Hi, I'm Priyanka 👋
-![Profile Banner](https://static.vecteezy.com/system/resources/thumbnails/004/525/039/small_2x/binary-code-background-abstract-technology-digital-binary-data-and-secure-data-concept-free-photo.jpg) <!-- Replace with your banner image -->
+![Profile Banner](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif) <!-- Replace with your banner image -->
 
 ## 🚀 About Me
 I'm a passionate **Full Stack Developer** with expertise in building dynamic and responsive web applications. My skill set includes:
@@ -30,12 +30,9 @@ I love turning ideas into reality through code and constantly strive to learn an
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 
 
----
 
-## 📈 GitHub Stats
 
 
 ---
